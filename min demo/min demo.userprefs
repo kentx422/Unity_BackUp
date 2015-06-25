@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\6month\Assets\myfolder\HCI\testball.cs">
+    <Files>
+      <File FileName="..\6month\Assets\myfolder\HCI\angle.cs" Line="1" Column="1" />
+      <File FileName="..\6month\Assets\myfolder\HCI\testball.cs" Line="48" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
