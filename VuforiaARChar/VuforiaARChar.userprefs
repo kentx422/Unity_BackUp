@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\LeapOculus\Assets\MyScripts\printpositionallobject2.cs">
+    <Files>
+      <File FileName="..\LeapOculus\Assets\MyScripts\printpositionallobject2.cs" Line="17" Column="18" />
+      <File FileName="..\LeapOculus\Assets\MyScripts\printPositionallobject.cs" Line="10" Column="14" />
+      <File FileName="..\LeapOculus\Assets\MyScripts\printpositionallobj2.cs" Line="18" Column="13" />
+      <File FileName="..\LeapOculus\Assets\MyScripts\printPositionallobj.cs" Line="8" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
